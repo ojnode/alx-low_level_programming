@@ -8,3 +8,5 @@ C programming on alx Variables, if, else, while
 
 3-print_alphabets.c: This program prints the alphabet in lowercase and uppercase.
 
+4-print_alphabt.c: This program prints all the alphabet except q and e.
+
