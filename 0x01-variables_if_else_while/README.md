@@ -4,3 +4,4 @@ C programming on alx Variables, if, else, while
 
 1-last_digit.c: This program will assign a random number to the variable n each time it is executed and will determine if the last digit of the number is greater than 5, less than 6 or not equal to 0 or equal to 0, and print the corresponding result.
 
+2-print_alphabet.c: This program prints the alphabet in lowercase.
