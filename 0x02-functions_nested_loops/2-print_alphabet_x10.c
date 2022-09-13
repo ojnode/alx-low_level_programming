@@ -2,9 +2,9 @@
 /**
 *print_alphabet_x10 - prints alphabet 10x in lowercase
 */
-int print_alphabet_x10(void)
+void  print_alphabet_x10(void)
 {
-char letters;
+int letters;
 int number;
 for (number = 0; number <= 9; number++)
 {
