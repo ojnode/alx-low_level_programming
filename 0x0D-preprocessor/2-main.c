@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - prints the name of te file program was complied from 
+ * main - prints the name of te file program was complied from
  * Return: Always 0
  */
 
